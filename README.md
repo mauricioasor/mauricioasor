@@ -21,7 +21,7 @@
 Pretendo iniciar projetos próprios e colaborar em projetos open source para aprimorar minhas habilidades práticas em front-end, além de iniciar os estudos em back-end com Node.js em breve.
 
 📫 **Contato:**  
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mauriciorosaa/))  
+[LinkedIn] ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mauriciorosaa/))  
 Email: mauricio.ven.rosa@gmail.com  
 
 ---
