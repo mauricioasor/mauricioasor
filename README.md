@@ -20,9 +20,26 @@
 🚀 **Em desenvolvimento:**  
 Pretendo iniciar projetos próprios e colaborar em projetos open source para aprimorar minhas habilidades práticas em front-end, além de iniciar os estudos em back-end com Node.js em breve.
 
-📫 **Contato:**  
-[LinkedIn] ([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mauriciorosaa/))  
-Email: mauricio.ven.rosa@gmail.com  
+## Linguagens:  
+<div style="display inline_block">
+<img align="center" alt="Mauricio-HTML" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+<img align="center" alt="Mauricio-CSS3" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+<img align="center" alt="Mauricio-PHP" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+<img align="center" alt="Mauricio-JAVASCRIPT" height="50" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<hr>
+  
+## **Estatísticas**
+
+ <div>
+  <a href="https://github.com/mauricioasor">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauricioasor&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioasor&layout=compact&theme=dark">
+ </a>
+</div>
+  <hr>
+ <a href="https://www.linkedin.com/in/mauriciorosaa/" target="_blank">
+  <img align="center" alt="Diego-LINKEDIN" height="60" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
+ </a>
 
 ---
 
