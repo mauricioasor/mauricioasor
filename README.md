@@ -40,6 +40,8 @@ Pretendo iniciar projetos próprios e colaborar em projetos open source para apr
  <a href="https://www.linkedin.com/in/mauriciorosaa/" target="_blank">
   <img align="center" alt="Diego-LINKEDIN" height="60" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
  </a>
+  <a href="https://www.instagram.com/mauriciorosaa_" target="_blank">
+                <img align= "center" height="60" width"40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" />
 
 ---
 
