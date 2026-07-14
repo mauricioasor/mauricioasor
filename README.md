@@ -6,8 +6,13 @@
 
 📚 **Estudando no momento:**
 - HTML5 & CSS3 (básico ao avançado)
+- BootStrap & VueJS
 - JavaScript (lógica, DOM, manipulação de eventos)
+- PHP & NodeJs
+- MySql $ PHPmyAdmin
+- Apis RESTful
 - Versionamento com Git e GitHub
+  
 
 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas – SENAI/SC (Previsão de conclusão: 08/2027)
 
